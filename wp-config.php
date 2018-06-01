@@ -26,7 +26,7 @@ define('DB_NAME', 'skyesun');
 define('DB_USER', 'root');
 
 /** MySQL database password */
-define('DB_PASSWORD', '');
+define('DB_PASSWORD', '799c94ffbd8ad83e');
 
 /** MySQL hostname */
 define('DB_HOST', 'localhost');
