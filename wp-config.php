@@ -23,7 +23,7 @@
 define('DB_NAME', 'skyesun');
 
 /** MySQL database username */
-define('DB_USER', 'skyesun');
+define('DB_USER', 'localhost');
 
 /** MySQL database password */
 define('DB_PASSWORD', '799c94ffbd8ad83e');
